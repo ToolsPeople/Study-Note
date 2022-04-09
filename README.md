@@ -1,2 +1,4 @@
-# Study-Note
-Documenting the good life
+# Hello~
+
+Here is my repository. It contains my study notes about JAVA and other things , etc.
+
