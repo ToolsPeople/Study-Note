@@ -4,5 +4,7 @@ Github documenting the good life.
 
 Here is my repository. It contains my study notes about JAVA and other things , etc.
 
-And I will GG
+This people was lazy and nothing was written down.
+
+And he will GG......
 
