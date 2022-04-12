@@ -6,5 +6,7 @@ Here is my repository. It contains my study notes about JAVA and other things , 
 
 This people was lazy and nothing was written down.
 
-And he will GG......
+Why can't the PDF format be displayed？
+
+wtf...
 
