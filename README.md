@@ -2,11 +2,5 @@
 
 Github documenting the good life.
 
-Here is my repository. It contains my study notes about JAVA and other things , etc.
-
-This people was lazy and nothing was written down.
-
-Why can't the PDF format be displayed？
-
-wtf...
+迷茫，本就是青春该有的样子，但不要让未来的你讨厌现在的自己。
 
