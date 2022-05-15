@@ -1,46 +1,127 @@
 # Markdown
 
-1. 引用{#index}
+1. 引用
 
 > crtl + shift + Q
+>
+> ```
+> 直接输入一个 > 也行
+> ```
 >
 > 
 
 2. 超链接
 
-   [Markdown 语法手册 （完整整理版）](https://blog.csdn.net/witnessai1/article/details/52551362?ops_request_misc=%7B%22request%5Fid%22%3A%22165260117116781685350134%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fall.%22%7D&request_id=165260117116781685350134&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-3-52551362-null-null.142^v9^pc_search_result_cache,157^v4^control&utm_term=markdown语法&spm=1018.2226.3001.4187)
+	> [Markdown 语法手册 （完整整理版）](https://blog.csdn.net/witnessai1/article/details/52551362?ops_request_misc=%7B%22request%5Fid%22%3A%22165260117116781685350134%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fall.%22%7D&request_id=165260117116781685350134&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-3-52551362-null-null.142^v9^pc_search_result_cache,157^v4^control&utm_term=markdown语法&spm=1018.2226.3001.4187)
+	>
+	> ```
+	> [链接名字](链接)
+	> ```
+	>
+	> 复制粘贴链接后会自动出现命名框
 
-   [链接名字](链接)，复制粘贴链接后会自动出现命名框
+3. 锚点
 
-[引用](#jump)
+	> [传送至文章末](#jump)
+	>
+	> ```
+	> //点击跳转处
+	> [传送至文章末](#jump)
+	> #号后面的是跳转id，自己设定
+	> 
+	> //点击后需要到达的地方
+	> <span id = "jump">文章末 </span>
+	> ```
+	>
+	> 注意：在Typora中点击跳转需要ctrl + 左键
 
-1
+4. 列表
 
-11
+	i.无序列表
 
-1
+	> *,+,- 加上空格表示无序列表
+	>
+	> - 无序列表
 
-1
+	ii.有序列表
 
-111
+	> 数字 + . + 空格 
+
+	(其他列表使不出来......)
+
+5. 引用的多层嵌套
+
+	> > > > > 1
+	> > > >
+	> > > > 1
+	> > >
+	> > > 1
+	> >
+	> > 1
+	>
+	> 1
+
+	1
+
+6. 注脚
+
+	> 试试就试试[^1]
+	>
+	> [^1]: 试试就试试
+	>
+	> ```
+	> //在想做注脚的文字后面加上[^注脚名字]
+	> 试试就试试[^1]
+	> //然后再在后面写出注脚代表的文字
+	> [^1]: 试试就试试
+	> ```
+
+7. 表格
+
+	> ```
+	> ctrl + t
+	> ```
+	>
+	> | 6666 | 6666 | 6666 |
+	> | :--: | :--: | :--: |
+	> |      |      |      |
+	> |      |      |      |
+	>
+	> 
+
+8.   缩进字符
+
+	> ```
+	> &#160;  &#nbsp; 缩进1/4中文
+	> &#8194; &#ensp; 缩进1/2中文，1个字符
+	> &#8195; &#emsp; 缩进 1 中文，2个字符
+	> ```
+	>
+	> &#160;你好你好
+	>
+	> &#8194;你好你好
+	>
+	> &#8195;你好你好
+
+9. 111
+
+	：smile：
+
+	
+
+	
+
+	
 
 
 
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-11
 
 
 
-<span id = "jump" >位置一</span>
+
+
+
+
+
+<span id = "jump">文章末</span>
 
