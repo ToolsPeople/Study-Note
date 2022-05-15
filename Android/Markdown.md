@@ -42,5 +42,5 @@
 
 
 
-<span id = "jump1" >位置一</span>
+<span id = "jump" >位置一</span>
 
