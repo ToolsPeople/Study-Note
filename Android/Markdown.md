@@ -1,6 +1,6 @@
 # Markdown
 
-1. 引用{#index}
+## 1. 引用{#index}
 
 > crtl + shift + Q
 >
