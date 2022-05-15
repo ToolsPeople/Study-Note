@@ -1,6 +1,26 @@
 # Markdown
 
-1. 引用
+[1.引用](#jump1)
+
+[2.超链接](#jump2)
+
+[3.锚点](#jump3)
+
+[4.列表](#jump4)
+
+[5.引用的多层嵌套](#jump5)
+
+[6.注脚](#jump6)
+
+[7.表格](#jump7)
+
+[8.缩进字符](#jump8)
+
+[9.emoji表情](#jump9)
+
+[10.未完待续...](#jump10)
+
+1. <span id = "jump1">引用</span>
 
 > crtl + shift + Q
 >
@@ -10,7 +30,7 @@
 >
 > 
 
-2. 超链接
+2. <span id = "jump2">超链接</span>
 
 	> [Markdown 语法手册 （完整整理版）](https://blog.csdn.net/witnessai1/article/details/52551362?ops_request_misc=%7B%22request%5Fid%22%3A%22165260117116781685350134%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fall.%22%7D&request_id=165260117116781685350134&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-3-52551362-null-null.142^v9^pc_search_result_cache,157^v4^control&utm_term=markdown语法&spm=1018.2226.3001.4187)
 	>
@@ -20,7 +40,7 @@
 	>
 	> 复制粘贴链接后会自动出现命名框
 
-3. 锚点
+3. <span id = "jump3">锚点</span>
 
 	> [传送至文章末](#jump)
 	>
@@ -35,7 +55,7 @@
 	>
 	> 注意：在Typora中点击跳转需要ctrl + 左键
 
-4. 列表
+4. <span id = "jump4">列表</span>
 
 	i.无序列表
 
@@ -49,7 +69,7 @@
 
 	(其他列表使不出来......)
 
-5. 引用的多层嵌套
+5. <span id = "jump5">引用的多层嵌套</span>
 
 	> > > > > 1
 	> > > >
@@ -63,7 +83,7 @@
 
 	1
 
-6. 注脚
+6. <span id = "jump6">注脚</span>
 
 	> 试试就试试[^1]
 	>
@@ -76,20 +96,20 @@
 	> [^1]: 试试就试试
 	> ```
 
-7. 表格
+7. <span id = "jump7">表格</span>
 
 	> ```
 	> ctrl + t
 	> ```
 	>
+	> 
+	>
 	> | 6666 | 6666 | 6666 |
 	> | :--: | :--: | :--: |
 	> |      |      |      |
 	> |      |      |      |
-	>
-	> 
 
-8.   缩进字符
+8.   <span id = "jump8">缩进字符</span>
 
 	> ```
 	> &#160;  &#nbsp; 缩进1/4中文
@@ -103,13 +123,18 @@
 	>
 	> &#8195;你好你好
 
-9. 111
+9. <span id = "jump9">emoji表情符号</span>
 
-	：smile：
+	> ```
+	> 注意分号是英文的:
+	> :smile:
+	> ```
+	>
+	> :smile_cat: :sake:  
+	>
+	> emoji表情链接[🎁 Emoji表情符号](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-	
-
-	
+10. <span id = "jump10">未完待续...</span>
 
 	
 
